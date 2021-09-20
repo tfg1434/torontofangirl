@@ -1,6 +1,13 @@
-### Hi there 👋
+### tfg
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=torontofangirl)](https://github.com/anuraghazra/github-readme-stats)
+```haskell
+type tfg = String
+type torontofangirl = String
+
+data tfg = tfg | torontofangirl
+```
+
+[![tfg's GitHub stats](https://github-readme-stats.vercel.app/api?username=tfg)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **torontofangirl/torontofangirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
